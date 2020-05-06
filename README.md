@@ -1,4 +1,4 @@
-# Android Libraries
+# Android Libraries & Plugins
 
 ## Kotlin
 - [kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) Library support for Kotlin coroutines.
