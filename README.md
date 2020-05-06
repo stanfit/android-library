@@ -4,11 +4,14 @@
 - [kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) Library support for Kotlin coroutines.
 - [dokka](https://github.com/Kotlin/dokka) Documentation Engine for Kotlin.
 
-## AndroidX
-- [Appcompat](https://developer.android.com/jetpack/androidx/releases/appcompat) Provides compatibility wrappers for a number of framework APIs.
-
 ## Google
 - [Material](https://github.com/material-components/material-components-android) Modular and customizable Material Design UI components for Android.
+
+## mBaas
+- [Firebase](https://firebase.google.com/docs/android/setup) A comprehensive app development platform.
+
+## AndroidX
+- [Android Jetpack](https://developer.android.com/jetpack) Jetpack is a suite of libraries, tools, and guidance to help developers write high-quality apps more easily.
 
 ## UI
 - [Groupie](https://github.com/lisawray/groupie) Groupie helps you display and manage complex RecyclerView layouts.
