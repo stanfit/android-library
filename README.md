@@ -6,6 +6,7 @@
 
 ## Google
 - [Material](https://github.com/material-components/material-components-android) Modular and customizable Material Design UI components for Android.
+- [OSS Licenses Gradle Plugin](https://github.com/google/play-services-plugins/tree/master/oss-licenses-plugin) This Gradle plugin scans the POM dependencies of a project at compile time.
 
 ## mBaas
 - [Firebase](https://firebase.google.com/docs/android/setup) A comprehensive app development platform.
