@@ -38,7 +38,7 @@
 - [Kotshi(include Moshi)](https://github.com/ansman/kotshi) An annotation processor that generates Moshi adapters from immutable Kotlin data classes.
 
 ## Dependency Injection
-- [Dagger](https://github.com/google/dagger) A fast dependency injector for Android and Java.
+- [Dagger Hilt](https://dagger.dev/hilt) Hilt provides a standard way to incorporate Dagger dependency injection into an Android application.
 - [Koin](https://github.com/InsertKoinIO/koin) Kotlin - a pragmatic lightweight dependency injection framework for Kotlin.
 
 ## Reactive Extensions
